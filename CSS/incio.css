@@ -1,0 +1,14 @@
+@import url(index.css);
+@import url(menu.css);
+
+body{
+    background-color:#1a1c20;
+    color: #f4f4f4;
+    font-family: 'Baloo Paaji 2', cursive;    
+}
+.logo-torneo img{
+    width: 50px;
+}
+
+
+/*--------------------------NORMATIVAS--------------------------*/
